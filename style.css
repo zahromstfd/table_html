@@ -1,0 +1,38 @@
+table, tr, td{
+    border: 1px solid black;
+
+}
+
+td {
+    padding: 10px;
+}
+
+.no1{
+    background-color: black;
+    color: white;
+}
+
+.no5{
+    background-color: green;
+    color: white;
+}
+
+.noo{
+    background-color: green;
+    color: white; 
+}
+
+.no8{
+    background-color: green;
+    color: white; 
+}
+
+.no16{
+    background-color: red;
+    color: white;
+}
+
+.header{
+    background-color: greenyellow;
+    color: white;
+}
